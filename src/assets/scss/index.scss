@@ -1,0 +1,23 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-overflow-scrolling: touch;
+}
+
+// header
+
+.app-header {
+  .logo {
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 400;    
+    color: #1890ff;
+    margin: 0 5px 0 0;
+    font-size: 28px;
+    a {
+      color: #333;      
+    }
+  }
+}
